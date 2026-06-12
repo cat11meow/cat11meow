@@ -2,9 +2,9 @@ Hello Welcome To My Profile
 
 I Make Stuff For Minecraft And Other Stuff
 
-Website: https://jacethejace.my.canva.site/
+Website: https://cat11meow.my.canva.site/
 
-Modrinth: https://modrinth.com/user/jacethejace4501
+Modrinth: https://modrinth.com/user/cat11meow
 
 Projects:
-[Tweakso](https://jacethejace4501.github.io/Tweakso/)
+[Tweakso](https://cat11meow.my.canva.site/Tweakso)
