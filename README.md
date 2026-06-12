@@ -7,4 +7,4 @@ Website: https://cat11meow.my.canva.site/
 Modrinth: https://modrinth.com/user/cat11meow
 
 Projects:
-[Tweakso](https://cat11meow.my.canva.site/Tweakso)
+[Tweakso](https://cat11meow.my.canva.site/tweakso)
